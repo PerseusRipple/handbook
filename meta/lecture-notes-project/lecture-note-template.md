@@ -5,7 +5,7 @@ A brief high level overview of the topics that will be discussed
 ## Learning Objectives
 
 - This should be a bulleted list
-- Describing the topics,
+- Describing the topics
 - Concepts and ideas discussed
 - During the lecture
 
@@ -15,4 +15,4 @@ This is what concepts the student should be familiar with in order to benefit fr
 
 ## Notes
 
-This is where the meat and potatoes should be. There should code samples, as well as prose detailing out what the lesson is talking about. This should be longed and detailed.
+This is where the meat and potatoes should be. There should be code samples as well as prose detailing what the lesson is talking about. This should be longed and detailed.
