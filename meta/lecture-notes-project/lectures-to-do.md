@@ -19,7 +19,7 @@ Feel free to pick the video from your cohort, or a different cohort
 |                 topic                 | first pass | second pass |
 | :-----------------------------------: | :--------- | :---------- |
 |          what is my dev env           |            |             |
-|             intro to html             |            |             |
+|             intro to html             | Shantell   |             |
 |             intro to css              |            |             |
 |               flex box                |            |             |
 |             media queries             |            |             |
